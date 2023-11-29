@@ -15,4 +15,4 @@ jobs:
         with:
           branch: gh-pages
           folder: . # The folder the action should deploy.
-          config: baseUrl=/  hhhh
+          config: baseUrl=/
